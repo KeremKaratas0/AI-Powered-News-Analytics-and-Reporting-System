@@ -28,5 +28,5 @@ This project provides an automated workflow designed to discover, extract, filte
 
 If you are interested in accessing the underlying source code, inquiring about the technical implementation, or exploring potential research or commercial/economic applications of this workflow, feel free to reach out:
 
-* **LinkedIn:** [Kerem Karataş / Profile Link](https://www.linkedin.com/in/kerem-karata%C5%9F-841777252/)
+* **LinkedIn:** [Kerem Karataş](https://www.linkedin.com/in/kerem-karata%C5%9F-841777252/)
 * **Email:** [keremkaratas.dev@gmail.com](mailto:keremkaratas.dev@gmail.com)
